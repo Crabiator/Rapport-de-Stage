@@ -19,7 +19,7 @@
 >>j'ai était au contact de plusieurs adhérents cela ma permis de m'ouvrir un peu plus ainsi que le contact des gens, j'ai aussi eu a travaillé a plusieurs donc à apprendre le travail d'équipe via le départagement des tâches, ainsi que la transmission d'information via les fichiers m'ayant était fourni.
 
 ```plantuml
-@startuml Diagram
+@startuml
 :Moi:
 package Espace-Numérique{
     Moi-->(Intervention)
